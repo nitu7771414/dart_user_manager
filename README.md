@@ -1,11 +1,9 @@
  Dart User Manager CLI App
-
-A simple Dart command-line app to fetch and manage user data from an API using menus, lists, maps, async/await, and user input.
-
 ---
 
-##  Features Implemented 
-Fetch users from JSONPlaceholder API  
+Features Implemented :
+
+1.Fetch users from JSONPlaceholder API  
 Display menu with options:  
  1. Show all users (usernames)  
  2. Show user details by ID  
@@ -18,10 +16,14 @@ Display menu with options:
 
 ---
 
- How to Run the Project
-
-### 1. Clone the repository
-
+ 2.How to Run the Project
+  Clone the repository
 ```bash
 git clone https://github.com/nitu7771414/dart-user-manager.git
 cd dart-user-manager
+```
+
+3.Sample terminal output:
+
+![image](https://github.com/user-attachments/assets/ff47e638-3f56-468e-8534-3d742e0ebfb1)
+
