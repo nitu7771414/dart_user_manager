@@ -1,4 +1,4 @@
-# 🧑‍💻 Dart User Manager CLI App
+ Dart User Manager CLI App
 
 A simple Dart command-line app to fetch and manage user data from an API using menus, lists, maps, async/await, and user input.
 
